@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html> 
+     <head> 
+         <meta charset="utf-8"> 
+         <title> Alan Pablo </title>
+     </head>
+    <body> 
+        <header> 
+            <img src = "C:\ProjetosDio\imgs\html5.jpg" alt = "Imagem pegada no link https://www.google.com/search?rlz=1C1KNTJ_pt-BRBR995BR995&sxsrf=APq-WBvPR3M3UQisXxieTPCZTmLdv8O75w:1650399147221&source=univ&tbm=isch&q=imagem+de+html5&fir=Bq4WTYc6O16thM%252CwPvAo3rwSNozcM%252C_%253BOgYSxlvNLJ9ekM%252CeuwH0zXpu_PyJM%252C_%253BU41DGP-TB6HppM%252Cfk51cSgBJpwEoM%252C_%253BCUBivn_A78H6_M%252C4MstaFZGUX3LmM%252C_%253BGzr22ri_9v-ioM%252CnzKbUaMy0YR31M%252C_%253BUzbokVT8YuOMuM%252CpMNoAf8mVwBl5M%252C_%253B6KxJJSO3PoK9vM%252CGR9KxgBdr7v9PM%252C_%253BNKV7fFppUGVE1M%252CFv_DKXjVbGvAaM%252C_%253Ba_QfEoqC8lgNPM%252C8yZ4YjLnwOV4RM%252C_%253BMJAepKasQUTI3M%252CJUUKd4nz53lAuM%252C_&usg=AI4_-kR25h-KN7Olv6kk5sH9wW0la8cD9g&sa=X&ved=2ahUKEwiQ-KD396D3AhXfR7gEHSfyDEwQjJkEegQIAhAC&cshid=1650399272487287&biw=1920&bih=929&dpr=1#imgrc=CUBivn_A78H6_M"> 
+             <h1> Alan Pablo </h1>
+        </header>
+
+        <section> 
+
+            <header> 
+                <h2> Posts </h2> 
+            </header>
+
+            <article>
+                <header> <h3> Posts #1 </h3> </header>
+                <img src="C:\ProjetosDio\imgs\htt.png" alt = " https://www.google.com/search?q=imagem+de+html5&rlz=1C1KNTJ_pt-BRBR995BR995&sxsrf=APq-WBvPR3M3UQisXxieTPCZTmLdv8O75w:1650399147221&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiQ-KD396D3AhXfR7gEHSfyDEwQ_AUoAXoECAEQAw&cshid=1650399371743447&biw=1920&bih=929&dpr=1#imgrc=Bq4WTYc6O16thM">
+                <p> O Lorem Ipsum é um texto <a href=" https://pt.lipsum.com/" target="_blank">  modelo </a> modelo da indústria tipográfica e de impressão. 
+                    O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500,
+                     quando uma <a href="mailto: alanpablo141@gmail.com"> misturou </a>misturou os caracteres de um texto para criar um espécime de livro.
+                      Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, 
+                      mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset,
+                       que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o 
+                       Aldus PageMaker que incluem versões do Lorem Ipsum. </p>
+            </article>
+
+        </section>
+
+        <footer> 
+
+        <ul>
+        <li><a href="mailto:alanpablo@gamil.com"target="_black"> alanpablo.com </a></li>
+        <li><a href="https://www.linkedin.com/feed/" target="_black"> Linkedin </a></li>
+        <li><a href="https://github.com/alanpablo33" target="_black" > Github </a></li>
+        </ul>
+
+        </footer>
+    </body>
+</html>
